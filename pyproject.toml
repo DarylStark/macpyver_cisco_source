@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "macpyver_cisco_source"
+name = "macpyver-cisco-source"
 version = "1.0.0"
 description = "Version Source for Cisco Support for MacPyVer."
 authors = ["Daryl Stark <daryl@dstark.nl>"]
