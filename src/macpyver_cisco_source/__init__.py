@@ -5,4 +5,4 @@ Version Source for Cisco Support for MacPyVer.
 
 from .cisco_source import CiscoSource  # noqa: F401
 
-__version__ = '0.0.0-dev'
+__version__ = '1.0.0-dev'
